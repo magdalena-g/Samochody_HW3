@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "309828939054",
+    "firebase_url": "https://samochody-4cecc.firebaseio.com",
+    "project_id": "samochody-4cecc",
+    "storage_bucket": "samochody-4cecc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309828939054:android:68b65585757ba3b4f9debf",
+        "android_client_info": {
+          "package_name": "com.example.samochody"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309828939054-4u0d2nqgt1lrvs81iv3georlmpn0eo07.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.samochody",
+            "certificate_hash": "57b284e25f8e93e8477dafb64a18cb359fa398f3"
+          }
+        },
+        {
+          "client_id": "309828939054-f59k7dh048ds8v5ptca1rm1gcrcvpo1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA63WoIgylsIT-okYQPNb-oAHCxpj_Ka8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309828939054-f59k7dh048ds8v5ptca1rm1gcrcvpo1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categories">
+        <item>Manualna</item>
+        <item>Automatyczna</item>
+
+    </string-array>
+    
+</resources>
